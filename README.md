@@ -1,5 +1,7 @@
 ## Integrating Azure AD SSO for Linux Server Logins Using PuTTY
 
+![image](https://github.com/user-attachments/assets/f34b0998-dff0-43f4-8db4-33662071eaf6)
+
 ### Introduction
 
 In enterprise environments, managing user access across multiple servers can become complex, especially when users need to remember unique credentials for each system. Integrating Azure Active Directory (Azure AD) for Single Sign-On (SSO) allows centralized identity management and secure access control, enabling users to log into Linux servers using their existing Azure AD credentials. This setup reduces the administrative burden on IT teams and enhances security by applying Azure AD’s comprehensive identity protection features, such as multi-factor authentication (MFA) and conditional access.
@@ -23,11 +25,11 @@ Implementing Azure AD SSO for Linux servers requires certain security measures a
 5. **Access Control and Permissions**: Ensure that permissions and access are restricted based on the principle of least privilege, limiting access to only necessary users.
 6. **Firewall and Network Security**: SSH ports should be configured to allow access only from trusted networks, ensuring secure communication between the client machine and servers.
 
-Here's a complete guide to integrate Azure AD SSO for multiple Linux server logins and connect using PuTTY:
-
 ---
 
 ## Integrating Azure AD SSO for Linux Server Logins and Connecting via PuTTY
+
+![KQc3Aq5HvLJErVx2h2SN5W](https://github.com/user-attachments/assets/fab55566-9587-4d99-84bd-511cbac75a4d)
 
 This setup allows Azure AD users to log in to Linux servers using their AD credentials, enabling centralized identity management.
 
